@@ -1,2 +1,7 @@
 # EYS_PROM
-Phylogenetic data for paper with A. Zelhof on the origins of open rhabdoms
+Phylogenetic procedures and data for 
+
+A mosaic of independent protein innovations involving eyes shut are required for the evolution of the open rhabdom.
+
+Simpla Mahato, Jing Nie, David C. Plachetzki*, Andrew C. Zelhof*
+
